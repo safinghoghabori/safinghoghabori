@@ -1,4 +1,4 @@
-# Hi,I'm safin ghoghabori 👋
+# Hi,I'm Safin Ghoghabori 👋
 
 I'm working as a full stack developer using MERN stack. I've built many projects using the same tech stack.
 
