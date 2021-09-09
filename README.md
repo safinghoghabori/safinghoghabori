@@ -1,4 +1,4 @@
-# Hi,I'm Safin Ghoghabori 👋
+# Hi, I'm Safin Ghoghabori 👋
 
 I'm working as a full stack developer using MERN stack. I've built many projects using the same tech stack.
 
@@ -7,6 +7,12 @@ I'm enthusiast and looking for the opportunity where i can dig deeper into the w
 I'm ready to collaborate. Hit me on safinghoghabori65@gmail.com
 
 I love to play badminton and exploring about new emerging technologies.
+
+- 🔭 I’m currently working on React, Node, MongoDB, Express
+- 🌱 I’m currently learning more about Javascript 
+- 👯 I’m looking to collaborate on open source projects
+- 📫 How to reach me: safinghoghabori65@gmail.com
+- ⚡ Fun fact: I'm passonate techie:)
 
 <!--
 **safinghoghabori/safinghoghabori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
