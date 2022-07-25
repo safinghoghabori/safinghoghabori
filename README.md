@@ -1,6 +1,6 @@
 # Hi, I'm Safin Ghoghabori 👋
 
-I'm working as a full stack developer using MERN stack. I've built many projects using the same tech stack.
+I work on full stack development using MERN stack. I've built many projects using the same tech stack.
 
 I'm enthusiast and looking for the opportunity where i can dig deeper into the world of Javascript.
 
