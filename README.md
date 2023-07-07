@@ -1,18 +1,29 @@
-# Hi, I'm Safin Ghoghabori 👋
+# Hi there, I'm Safin Ghoghabori 👋
 
-I work on full stack development using MERN stack. I've built many projects using the same tech stack.
+I am a working professional with experience in building web applications and mobile applications. <br/>
+Other than this, I also have an inclination towards design, playing sports, and exploring new stuff. <br/>
+Let's [connect](safinghoghabori65@gmail.com) and geek out on any of the topics mentioned. I'm all ears. 
 
-I'm enthusiast and looking for the opportunity where i can dig deeper into the world of Javascript.
+# 💻 Tech Stack, I've worked with 🧰
+* **Frontend:** ReactJS, React-Native, Redux, TypeScript, Web Technologies(HTML, CSS, JavaScript), Web Performance
+* **Backend:** Node.js, Express.js
+* **Databases:** SQL, MongoDB
 
-I'm ready to collaborate. Hit me on safinghoghabori65@gmail.com
+I, personally, believe programming is more about articulating and organization than picking a random framework 🤷
 
-I love to play badminton and exploring about new emerging technologies.
+# Projects 👷‍♂️
+I have had the opportunity to work on multiple projects. Listing some of them 👇
 
-- 🔭 I’m currently working on React, Node, MongoDB, Express
-- 🌱 I’m currently learning more about Javascript 
-- 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: safinghoghabori65@gmail.com
-- ⚡ Fun fact: I'm passonate techie:)
+* [foody: ](https://github.com/safinghoghabori/foody) An online food ordering website with three roles: User, Seller, and Admin
+* [chat-app: ](https://github.com/safinghoghabori/chat-app) An application where users can create different rooms or groups and do chat with each other in real-time 
+* [movie-adda: ](https://github.com/safinghoghabori/movie-adda) A website to view movie details, search specific movies, view producers, ratings and reviews.
+
+
+# Let's connect 📫
+
+*  [Linkedin](https://www.linkedin.com/in/safin-ghoghabori)
+*  [Twitter](https://twitter.com/GhoghaboriSafin)
+*  [Email](safinghoghabori65@gmail.com)
 
 <!--
 **safinghoghabori/safinghoghabori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
