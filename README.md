@@ -23,7 +23,7 @@ I have had the opportunity to work on multiple projects. Listing some of them �
 
 *  [Linkedin](https://www.linkedin.com/in/safin-ghoghabori)
 *  [Twitter](https://twitter.com/GhoghaboriSafin)
-*  [Email](safinghoghabori65@gmail.com)
+*  [Email](mailto:safinghoghabori65@gmail.com)
 
 <!--
 **safinghoghabori/safinghoghabori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
