@@ -8,14 +8,15 @@ Let's [connect](safinghoghabori65@gmail.com) and geek out on any of the topics m
 * **Frontend:** ReactJS, React-Native, Redux, TypeScript, Web Technologies(HTML, CSS, JavaScript), Web Performance
 * **Backend:** Node.js, Express.js
 * **Databases:** SQL, MongoDB
+* **Current Stack:** .NET, C#, ASP.NET Core, MVC, Web API, LINQ, EF Core, SQL, Microservices, Docker, Microsoft Azure, Angular
 
 I, personally, believe programming is more about articulating and organization than picking a random framework 🤷
 
 # Projects 👷‍♂️
 I have had the opportunity to work on multiple projects. Listing some of them 👇
 
+* [eModal: ](https://github.com/safinghoghabori/advent-appointment-booking) A full-stack intermodal web app to help trucking companies make an appointment
 * [foody: ](https://github.com/safinghoghabori/foody) An online food ordering website with three roles: User, Seller, and Admin
-* [chat-app: ](https://github.com/safinghoghabori/chat-app) An application where users can create different rooms or groups and do chat with each other in real-time 
 * [movie-adda: ](https://github.com/safinghoghabori/movie-adda) A website to view movie details, search specific movies, view producers, ratings and reviews.
 
 
