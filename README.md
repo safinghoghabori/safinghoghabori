@@ -8,7 +8,8 @@ Let's [connect](safinghoghabori65@gmail.com) and geek out on any of the topics m
 * **Frontend:** ReactJS, React-Native, Redux, TypeScript, Web Technologies(HTML, CSS, JavaScript), Web Performance
 * **Backend:** Node.js, Express.js
 * **Databases:** SQL, MongoDB
-* **Current Stack:** .NET, C#, ASP.NET Core, MVC, Web API, LINQ, EF Core, SQL, Microservices, Docker, Microsoft Azure, Angular
+* **Other:** .NET, C#, EF Core, Microservices, Docker, Microsoft Azure, Angular
+<!-- * **Current Stack:** .NET, C#, ASP.NET Core, MVC, Web API, LINQ, EF Core, SQL, Microservices, Docker, Microsoft Azure, Angular -->
 
 I, personally, believe programming is more about articulating and organization than picking a random framework 🤷
 
